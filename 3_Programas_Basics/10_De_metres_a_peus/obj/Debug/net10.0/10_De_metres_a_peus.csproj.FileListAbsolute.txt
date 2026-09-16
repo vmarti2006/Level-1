@@ -1,0 +1,14 @@
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\bin\Debug\net10.0\10_De_metres_a_peus.exe
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\bin\Debug\net10.0\10_De_metres_a_peus.deps.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\bin\Debug\net10.0\10_De_metres_a_peus.runtimeconfig.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\bin\Debug\net10.0\10_De_metres_a_peus.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\bin\Debug\net10.0\10_De_metres_a_peus.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\10_De_metres_a_peus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\10_De_metres_a_peus.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\10_De_metres_a_peus.AssemblyInfo.cs
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\10_De_metres_a_peus.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\10_De_metres_a_peus.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\refint\10_De_metres_a_peus.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\10_De_metres_a_peus.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\10_De_metres_a_peus.genruntimeconfig.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\10_De_metres_a_peus\obj\Debug\net10.0\ref\10_De_metres_a_peus.dll

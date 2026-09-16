@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "9_Convertir_minuts_en_hores/1.0.0": {
+        "runtime": {
+          "9_Convertir_minuts_en_hores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9_Convertir_minuts_en_hores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

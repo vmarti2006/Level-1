@@ -1,0 +1,14 @@
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\bin\Debug\net10.0\bond.exe
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\bin\Debug\net10.0\bond.deps.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\bin\Debug\net10.0\bond.runtimeconfig.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\bin\Debug\net10.0\bond.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\bin\Debug\net10.0\bond.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\bond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\bond.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\bond.AssemblyInfo.cs
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\bond.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\bond.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\refint\bond.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\bond.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\bond.genruntimeconfig.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\1_bond\obj\Debug\net10.0\ref\bond.dll

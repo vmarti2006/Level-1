@@ -1,0 +1,14 @@
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\bin\Debug\net10.0\2_Calculator3000.exe
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\bin\Debug\net10.0\2_Calculator3000.deps.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\bin\Debug\net10.0\2_Calculator3000.runtimeconfig.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\bin\Debug\net10.0\2_Calculator3000.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\bin\Debug\net10.0\2_Calculator3000.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\2_Calculator3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\2_Calculator3000.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\2_Calculator3000.AssemblyInfo.cs
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\2_Calculator3000.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\2_Calculator3000.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\refint\2_Calculator3000.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\2_Calculator3000.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\2_Calculator3000.genruntimeconfig.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\2_Calculator3000\obj\Debug\net10.0\ref\2_Calculator3000.dll

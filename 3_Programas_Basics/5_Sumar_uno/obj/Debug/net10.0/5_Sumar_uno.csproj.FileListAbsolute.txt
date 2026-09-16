@@ -1,0 +1,14 @@
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\bin\Debug\net10.0\5_Sumar_uno.exe
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\bin\Debug\net10.0\5_Sumar_uno.deps.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\bin\Debug\net10.0\5_Sumar_uno.runtimeconfig.json
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\bin\Debug\net10.0\5_Sumar_uno.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\bin\Debug\net10.0\5_Sumar_uno.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\5_Sumar_uno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\5_Sumar_uno.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\5_Sumar_uno.AssemblyInfo.cs
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\5_Sumar_uno.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\5_Sumar_uno.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\refint\5_Sumar_uno.dll
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\5_Sumar_uno.pdb
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\5_Sumar_uno.genruntimeconfig.cache
+C:\Users\victo\Documents\DAW1_2\Nivell 1\3_Programas_Basics\5_Sumar_uno\obj\Debug\net10.0\ref\5_Sumar_uno.dll
