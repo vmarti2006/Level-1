@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\proba(dotnet new console -o xxx)\\proba.csproj": {}
+    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\13_Calculadora2\\13_Calculadora2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\proba(dotnet new console -o xxx)\\proba.csproj": {
+    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\13_Calculadora2\\13_Calculadora2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\proba(dotnet new console -o xxx)\\proba.csproj",
-        "projectName": "proba",
-        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\proba(dotnet new console -o xxx)\\proba.csproj",
+        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\13_Calculadora2\\13_Calculadora2.csproj",
+        "projectName": "13_Calculadora2",
+        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\13_Calculadora2\\13_Calculadora2.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\proba(dotnet new console -o xxx)\\obj\\",
+        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\13_Calculadora2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
