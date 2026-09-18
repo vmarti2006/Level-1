@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15_Treu_lletres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+601e24ad15d25ff856a7754ea927846d8a2c98e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d501456bf03bacc6a6638e104170357ba48ecd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("15_Treu_lletres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15_Treu_lletres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

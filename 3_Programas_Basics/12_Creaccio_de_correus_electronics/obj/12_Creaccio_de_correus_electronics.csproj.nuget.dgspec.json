@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj",
         "projectName": "12_Creaccio_de_correus_electronics",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\12_Creaccio_de_correus_electronics.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\12_Creaccio_de_correus_electronics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
