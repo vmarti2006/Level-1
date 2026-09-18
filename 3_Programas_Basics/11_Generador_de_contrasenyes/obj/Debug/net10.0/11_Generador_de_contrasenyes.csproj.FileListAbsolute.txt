@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\bin\Debug\net10.0\11_Generador_de_contrasenyes.exe
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\bin\Debug\net10.0\11_Generador_de_contrasenyes.deps.json
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\bin\Debug\net10.0\11_Generador_de_contrasenyes.runtimeconfig.json
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\bin\Debug\net10.0\11_Generador_de_contrasenyes.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\bin\Debug\net10.0\11_Generador_de_contrasenyes.pdb
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.AssemblyInfo.cs
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.sourcelink.json
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\refint\11_Generador_de_contrasenyes.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.pdb
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\11_Generador_de_contrasenyes.genruntimeconfig.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\11_Generador_de_contrasenyes\obj\Debug\net10.0\ref\11_Generador_de_contrasenyes.dll

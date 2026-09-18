@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_Saluda_amb_la_edat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3014da23281d3e2b1fe4ad1dab8b31da94e0babf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ed1615fea86853a60c4766e5f2c8e120976f6dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_Saluda_amb_la_edat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_Saluda_amb_la_edat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
