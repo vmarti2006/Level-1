@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\bin\Debug\net10.0\14_El_Calendary_de_dates.exe
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\bin\Debug\net10.0\14_El_Calendary_de_dates.deps.json
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\bin\Debug\net10.0\14_El_Calendary_de_dates.runtimeconfig.json
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\bin\Debug\net10.0\14_El_Calendary_de_dates.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\bin\Debug\net10.0\14_El_Calendary_de_dates.pdb
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.AssemblyInfo.cs
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.sourcelink.json
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\refint\14_El_Calendary_de_dates.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.pdb
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\14_El_Calendary_de_dates.genruntimeconfig.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\3_Programas_Basics\14_El_Calendary_de_dates\obj\Debug\net10.0\ref\14_El_Calendary_de_dates.dll
