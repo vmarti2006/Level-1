@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj",
         "projectName": "17_Calcula_la_nota",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\17_Calcula_la_nota.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\17_Calcula_la_nota\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

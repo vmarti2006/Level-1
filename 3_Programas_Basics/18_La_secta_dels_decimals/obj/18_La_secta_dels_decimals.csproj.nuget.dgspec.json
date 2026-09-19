@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj",
         "projectName": "18_La_secta_dels_decimals",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\18_La_secta_dels_decimals.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\18_La_secta_dels_decimals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

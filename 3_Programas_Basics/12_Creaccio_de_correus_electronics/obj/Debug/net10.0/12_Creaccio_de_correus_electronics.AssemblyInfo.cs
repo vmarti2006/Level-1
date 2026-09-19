@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12_Creaccio_de_correus_electronics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d501456bf03bacc6a6638e104170357ba48ecd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99b5c78acf7ed279938687570c2d7779d4fc53c")]
 [assembly: System.Reflection.AssemblyProductAttribute("12_Creaccio_de_correus_electronics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12_Creaccio_de_correus_electronics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
