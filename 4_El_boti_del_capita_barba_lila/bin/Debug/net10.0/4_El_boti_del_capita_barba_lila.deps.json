@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "4_El_boti_del_capita_barba_lila/1.0.0": {
+        "runtime": {
+          "4_El_boti_del_capita_barba_lila.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_El_boti_del_capita_barba_lila/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

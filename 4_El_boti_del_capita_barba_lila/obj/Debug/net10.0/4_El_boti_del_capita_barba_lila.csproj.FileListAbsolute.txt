@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\bin\Debug\net10.0\4_El_boti_del_capita_barba_lila.exe
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\bin\Debug\net10.0\4_El_boti_del_capita_barba_lila.deps.json
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\bin\Debug\net10.0\4_El_boti_del_capita_barba_lila.runtimeconfig.json
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\bin\Debug\net10.0\4_El_boti_del_capita_barba_lila.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\bin\Debug\net10.0\4_El_boti_del_capita_barba_lila.pdb
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.AssemblyInfo.cs
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.sourcelink.json
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\refint\4_El_boti_del_capita_barba_lila.dll
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.pdb
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\4_El_boti_del_capita_barba_lila.genruntimeconfig.cache
+C:\Users\victo\Documents\DAW1_2\Level-1\4_El_boti_del_capita_barba_lila\obj\Debug\net10.0\ref\4_El_boti_del_capita_barba_lila.dll
