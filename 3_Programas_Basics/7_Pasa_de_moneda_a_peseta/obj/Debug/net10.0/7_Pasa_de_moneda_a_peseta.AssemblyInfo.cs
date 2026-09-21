@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7_Pasa_de_moneda_a_peseta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99b5c78acf7ed279938687570c2d7779d4fc53c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e8bf8d642f0f29c5e19e0fdd96b56454c5ea27")]
 [assembly: System.Reflection.AssemblyProductAttribute("7_Pasa_de_moneda_a_peseta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7_Pasa_de_moneda_a_peseta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

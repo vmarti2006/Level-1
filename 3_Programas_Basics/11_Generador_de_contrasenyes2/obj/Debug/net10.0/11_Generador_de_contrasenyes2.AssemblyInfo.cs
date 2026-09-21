@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11_Generador_de_contrasenyes2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7175e1879e26179a1230a24cbeea8369f7b916c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e8bf8d642f0f29c5e19e0fdd96b56454c5ea27")]
 [assembly: System.Reflection.AssemblyProductAttribute("11_Generador_de_contrasenyes2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11_Generador_de_contrasenyes2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

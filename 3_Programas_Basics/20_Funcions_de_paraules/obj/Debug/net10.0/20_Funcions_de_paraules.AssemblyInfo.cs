@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("20_Funcions_de_paraules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5314f021f3b55bd7a40355f13c75ac670e6fd54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e8bf8d642f0f29c5e19e0fdd96b56454c5ea27")]
 [assembly: System.Reflection.AssemblyProductAttribute("20_Funcions_de_paraules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("20_Funcions_de_paraules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

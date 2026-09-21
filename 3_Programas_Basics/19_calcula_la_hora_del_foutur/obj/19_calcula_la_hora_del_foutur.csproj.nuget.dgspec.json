@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj",
         "projectName": "19_calcula_la_hora_del_foutur",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\19_calcula_la_hora_del_foutur.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\3_Programas_Basics\\19_calcula_la_hora_del_foutur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

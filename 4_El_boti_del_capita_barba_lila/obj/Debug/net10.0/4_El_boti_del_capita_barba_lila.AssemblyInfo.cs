@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_El_boti_del_capita_barba_lila")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4538f0aba861b25dc3c256a472ec1e7bf3bf90c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e8bf8d642f0f29c5e19e0fdd96b56454c5ea27")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_El_boti_del_capita_barba_lila")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_El_boti_del_capita_barba_lila")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
