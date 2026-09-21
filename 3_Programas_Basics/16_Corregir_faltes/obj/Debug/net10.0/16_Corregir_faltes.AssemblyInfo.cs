@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16_Corregir_faltes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e8bf8d642f0f29c5e19e0fdd96b56454c5ea27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2345c416c9cb3d3d612c877eaf2e9fc4d776f0a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("16_Corregir_faltes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16_Corregir_faltes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
