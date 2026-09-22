@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj",
         "projectName": "2_Ordena_dos_nombres",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\2_Ordena_dos_nombres.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\2_Ordena_dos_nombres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
