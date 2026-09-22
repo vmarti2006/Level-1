@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("21_Gira_les_gifres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83690c27af91dca40fbb81ceae2bdcaef8616625")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7555e52a766c39720831de2de1781be3aad1d8c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("21_Gira_les_gifres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("21_Gira_les_gifres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
