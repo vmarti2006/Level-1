@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14_El_Calendary_de_dates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7555e52a766c39720831de2de1781be3aad1d8c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f792bd91165686ce2fdd3ba48fa5f3d2a85b3116")]
 [assembly: System.Reflection.AssemblyProductAttribute("14_El_Calendary_de_dates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14_El_Calendary_de_dates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

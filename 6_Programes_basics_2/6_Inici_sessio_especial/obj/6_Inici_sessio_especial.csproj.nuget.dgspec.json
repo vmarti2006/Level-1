@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj",
         "projectName": "6_Inici_sessio_especial",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\6_Inici_sessio_especial.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\6_Inici_sessio_especial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

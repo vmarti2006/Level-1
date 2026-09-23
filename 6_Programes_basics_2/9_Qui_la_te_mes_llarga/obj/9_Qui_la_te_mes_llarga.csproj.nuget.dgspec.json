@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj",
         "projectName": "9_Qui_la_te_mes_llarga",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\9_Qui_la_te_mes_llarga.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\9_Qui_la_te_mes_llarga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
