@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11_El_Periodista_especial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f792bd91165686ce2fdd3ba48fa5f3d2a85b3116")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be69178b8da5fc27e3935c6f7e76d15870d151bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("11_El_Periodista_especial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11_El_Periodista_especial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

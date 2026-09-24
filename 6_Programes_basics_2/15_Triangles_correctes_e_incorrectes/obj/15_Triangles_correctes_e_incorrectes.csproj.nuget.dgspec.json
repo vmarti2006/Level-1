@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj",
         "projectName": "15_Triangles_correctes_e_incorrectes",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\15_Triangles_correctes_e_incorrectes.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\6_Programes_basics_2\\15_Triangles_correctes_e_incorrectes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

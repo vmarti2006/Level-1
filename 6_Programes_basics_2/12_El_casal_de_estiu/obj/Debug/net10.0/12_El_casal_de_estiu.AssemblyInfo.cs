@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12_El_casal_de_estiu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d261c8331cc74caf38d2b90ae60c2c3b9ef563cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be69178b8da5fc27e3935c6f7e76d15870d151bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("12_El_casal_de_estiu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12_El_casal_de_estiu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
