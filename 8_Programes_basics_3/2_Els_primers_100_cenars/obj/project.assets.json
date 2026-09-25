@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\8_LLançament_del_coet_espacial_feli.csproj",
-      "projectName": "8_LLançament_del_coet_espacial_feli",
-      "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\8_LLançament_del_coet_espacial_feli.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj",
+      "projectName": "2_Els_primers_100_cenars",
+      "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

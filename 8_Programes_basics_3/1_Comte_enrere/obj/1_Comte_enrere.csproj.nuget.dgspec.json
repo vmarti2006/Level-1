@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\8_LLançament_del_coet_espacial_feli.csproj": {}
+    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\1_Comte_enrere\\1_Comte_enrere.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\8_LLançament_del_coet_espacial_feli.csproj": {
+    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\1_Comte_enrere\\1_Comte_enrere.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\8_LLançament_del_coet_espacial_feli.csproj",
-        "projectName": "8_LLançament_del_coet_espacial_feli",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\8_LLançament_del_coet_espacial_feli.csproj",
+        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\1_Comte_enrere\\1_Comte_enrere.csproj",
+        "projectName": "1_Comte_enrere",
+        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\1_Comte_enrere\\1_Comte_enrere.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_LLançament_del_coet_espacial_feli\\obj\\",
+        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\1_Comte_enrere\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
