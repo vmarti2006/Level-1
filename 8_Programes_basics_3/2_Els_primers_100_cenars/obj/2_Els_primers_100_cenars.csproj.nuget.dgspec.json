@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj",
         "projectName": "2_Els_primers_100_cenars",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\2_Els_primers_100_cenars.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\8_Programes_basics_3\\2_Els_primers_100_cenars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

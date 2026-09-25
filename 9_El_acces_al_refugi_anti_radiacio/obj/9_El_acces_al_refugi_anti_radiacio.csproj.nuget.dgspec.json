@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj",
         "projectName": "9_El_acces_al_refugi_anti_radiacio",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\9_El_acces_al_refugi_anti_radiacio.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\9_El_acces_al_refugi_anti_radiacio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

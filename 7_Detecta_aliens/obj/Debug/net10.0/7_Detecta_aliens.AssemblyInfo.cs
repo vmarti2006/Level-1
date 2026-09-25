@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7_Detecta_aliens")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c0f912c747ba1c61c7cd8ff633001a158f5b34e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe5e99ac7434a8a9b90d15c92cd4c9816dc75ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("7_Detecta_aliens")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7_Detecta_aliens")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

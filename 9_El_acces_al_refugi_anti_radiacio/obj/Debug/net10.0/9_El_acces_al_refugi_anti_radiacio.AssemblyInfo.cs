@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9_El_acces_al_refugi_anti_radiacio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+383e5b87b12644dc6c66675e9798beae2bd60295")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe5e99ac7434a8a9b90d15c92cd4c9816dc75ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("9_El_acces_al_refugi_anti_radiacio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9_El_acces_al_refugi_anti_radiacio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

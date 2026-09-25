@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10_La_porta_del_castell_nudista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65ea30aec635afcd731cd6afc6c383f49e3286dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe5e99ac7434a8a9b90d15c92cd4c9816dc75ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("10_La_porta_del_castell_nudista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10_La_porta_del_castell_nudista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

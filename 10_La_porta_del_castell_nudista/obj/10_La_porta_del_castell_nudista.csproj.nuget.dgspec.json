@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj": {}
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj": {}
   },
   "projects": {
-    "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj": {
+    "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj",
         "projectName": "10_La_porta_del_castell_nudista",
-        "projectPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj",
+        "projectPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\10_La_porta_del_castell_nudista.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Documents\\DAW1_2\\Level-1\\10_La_porta_del_castell_nudista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
