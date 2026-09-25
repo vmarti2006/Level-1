@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5_Nombres_parells_senars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be69178b8da5fc27e3935c6f7e76d15870d151bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c0f912c747ba1c61c7cd8ff633001a158f5b34e")]
 [assembly: System.Reflection.AssemblyProductAttribute("5_Nombres_parells_senars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5_Nombres_parells_senars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

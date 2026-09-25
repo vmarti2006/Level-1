@@ -27,7 +27,7 @@ string CalcualTrinagles(float cost1, float cost2, float cost3)
     float c3c2= cost3+cost2;
     
     // es un triangle?
-    if ()
+    if (c1c2<cost3 ||c1c3<cost2||c3c2<cost1)
     {
         if (cost1==cost2||cost2==cost3||cost1==cost3) {return"El triangle és isòsceles.";}
         if (cost1==cost2&&cost2==cost3){return"El triangle és equilater.";}
